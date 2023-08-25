@@ -18,4 +18,4 @@ Bước 2: Chạy dòng lệnh sau để mở công cụ jupyter notebook
 jupyter notebook
 ```
 
-Bước 3: Mở file ASM3-PND.ipynb vừa tải về
+Bước 3: Mở file ASM3-PND.ipynb vừa tải về trên jupyter notebook
